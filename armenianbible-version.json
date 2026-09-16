@@ -1,0 +1,12 @@
+{
+  "min_version": "2.4",
+  "latest_version": "2.4",
+  "force_update": false,
+  "update_url": "https://apps.apple.com/app/id6790569890",
+  "title_hy": "Պարտադիր թարմացում",
+  "title_ru": "Требуется обновление",
+  "title_en": "Update Required",
+  "message_hy": "Հավելվածի նոր տարբերակը հասանելի է App Store-ում: Խնդրում ենք թարմացնել՝ շարունակելու համար:",
+  "message_ru": "Доступна новая версия приложения Luys в App Store. Пожалуйста, обновите приложение, чтобы продолжить использование.",
+  "message_en": "A new version of Luys is available on the App Store. Please update the app to continue using it."
+}
